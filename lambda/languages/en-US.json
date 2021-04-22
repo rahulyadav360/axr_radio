@@ -1,0 +1,57 @@
+{
+    "SKILL_NAME": "AXR Radio",
+    "WELCOME_MESSAGE": [
+        "Welcome to AXR Radio. "
+    ],
+    "WELCOME_BACK_MESSAGE": [
+        "Welcome back to AXR Radio. "
+    ],
+    "ENABLE_LOCATION_PERMISSIONS":[
+        "Sorry, we don't have access to your location. Please go to your Alexa app and enable location permissions."
+    ],
+    "ADDRESS_NOT_AVAILABLE":[
+        "You don't have any address associated with your device, so we'll play the default Asian stream."
+    ],
+    "PLAY_COUNTRY_STREAM":[
+        "It looks like you are in {}, so we’ll play our {} stream."
+    ],
+    "PLAY_DEFAULT_STREAM":[
+        "There's no stream available for your country, so we'll play the default Asian stream."
+    ],
+    "ERROR_FETCHING_LOCATION":[
+        "Something went wrong while trying to fetch your address, please try again later."
+    ],
+    "COUNTRY_STREAM_AVAILABLE":[
+        "It looks like you are in {}. We now have a {} stream so we'll play that stream. Is that ok?"
+    ],
+    "COUNTRY_STREAM_AVAILABLE_REPROMPT":[
+        "Would you like to start listenting to the new stream?"
+    ],    
+    "ABOUT": [
+        "You are listening to AXR Radio. To continue listening say: resume, or say: stop to stop listening."
+    ],
+    "ABOUT_REPROMPT":[
+        "To continue listening say: resume, or say: stop to stop listening."
+    ],
+    "HELP": [
+        "You are listening to AXR Radio. To continue listening say: resume, or say: stop to stop listening."
+    ],
+    "HELP_REPROMPT": [
+        "To continue listening say: resume, or say: stop to stop listening."
+    ],
+    "FALLBACK": [
+        "Sorry, I didn't understand that. Can you please repeat that?"
+    ],
+    "FALLBACK_REPROMPT": [
+        "Please repeat your command."
+    ],
+    "UNHANDLED":[
+        "Sorry, we currently do not support this feature."
+    ],
+    "CANCEL_STOP_MESSAGE": [
+        "Thank you for listening to AXR Radio."
+    ],
+    "DEVICE_NOT_SUPPORTED" : "Sorry, this skill is not supported on this device",
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}

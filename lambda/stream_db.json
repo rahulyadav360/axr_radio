@@ -1,0 +1,33 @@
+{
+  "SG":{
+    "country_name":"Singapore",
+    "stream_url":"https://singaporestream.axr.online",
+    "stream_title":"AXR Radio",
+    "stream_subtitle":"AXR Radio Singapore",
+    "album_art":"https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png",
+    "background_image":"https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png"
+  },
+  "ID":{
+    "country_name":"Indonesia",
+    "stream_url":"https://jakartastream.axr.online",
+    "stream_title":"AXR Radio",
+    "stream_subtitle":"AXR Radio Indonesia",
+    "album_art":"https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png",
+    "background_image":"https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png"
+  },
+  "HK":{
+    "country_name":"Hong Kong",
+    "stream_url":"https://hongkongstream.axr.online",
+    "stream_title":"AXR Radio",
+    "stream_subtitle":"AXR Radio Hong Kong",
+    "album_art":"https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png",
+    "background_image":"https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png"
+  },
+  "default":{
+    "stream_url":"https://asiastream.axr.online",
+    "stream_title":"AXR Radio",
+    "stream_subtitle":"AXR Radio Asia",
+    "album_art":"https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png",
+    "background_image":"https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png"
+  }
+}
